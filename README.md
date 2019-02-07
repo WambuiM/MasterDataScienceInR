@@ -1,7 +1,7 @@
 # MasterDataScienceInR
 
-Explore
-Wrangle
-Program
-Model
-Communicate
+Explore,
+Wrangle,
+Program,
+Model,
+Communicate.
